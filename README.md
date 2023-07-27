@@ -20,7 +20,7 @@ This is a front-end implementation for an email client that allows users to send
 
 1. **Run the Django Project Locally**: To use the email client, you need to run the Django project on your local device. Follow these steps:
 
-   - Download the distribution code from [this link](https://cdn.cs50.net/web/2020/spring/projects/3/mail.zip) and unzip it.
+   - Download the distribution code and unzip it.
    - Open your terminal or command prompt and navigate to the `mail` directory using the `cd` command.
    - Install the required dependencies by running:
      ```
